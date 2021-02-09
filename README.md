@@ -1,1 +1,1 @@
-# Github-stats-api
+# github-stats-api
